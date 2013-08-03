@@ -1,0 +1,17 @@
+[
+{
+  "modid": "HorseCraft",
+  "name": "HorseCraft",
+  "description": "A mod which allows you to craft the Saddle and the Horse Armor",
+  "mcversion": "1.6.1",
+  "version" : "1.0",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["EmoKnight"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "parent": "",
+  "dependencies": []
+}
+]
